@@ -1,8 +1,8 @@
 {
-  "name": "ᴍᴀʟᴠɪɴ-xᴅ",
-  "description": "Javascript WhatsApp bot made by ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
+  "name": "ᴍuDaSiR",
+  "description": "Javascript WhatsApp bot made by ᴍudasir",
   "logo": "https://files.catbox.moe/qumhu4.jpg",
-  "keywords": ["MALVIN-XD"],
+  "keywords": ["MuDaSiR"],
   "success_url": "/",
 
     "stack": "container",
@@ -85,20 +85,20 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ᴍʀ ᴍᴀʟᴠɪɴ"
+      "value": "Mudasir"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "263776388689"
+      "value": "923099003842"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "ᴍᴀʟᴠɪɴ xᴅ"
+      "value": "ᴍudasir"
 
       }, 
 
@@ -130,7 +130,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍᴀʟᴠɪɴ ᴋɪɴɢ*"
+      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍudasir*"
     },
 
       "DELETE_LINKS": {
