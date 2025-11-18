@@ -1,7 +1,7 @@
 {
   "name": "ᴍuDaSiR",
   "description": "Javascript WhatsApp bot made by ᴍudasir",
-  "logo": "https://files.catbox.moe/qumhu4.jpg",
+  "logo": "https://files.catbox.moe/c259dm.jpg",
   "keywords": ["MuDaSiR"],
   "success_url": "/",
 
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "ᴍᴀʟᴠɪɴ-xᴅ"
+      "value": "ᴍudasir"
     }, 
       
     "PREFIX": {
@@ -124,7 +124,7 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/qumhu4.jpg"
+      "value": "https://files.catbox.moe/c259dm.jpg"
     },
     
      "DESCRIPTION": {
