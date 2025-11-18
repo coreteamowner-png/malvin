@@ -1,7 +1,7 @@
 {
   "name": "MuDaSiR",
   "version": "2.0.0",
-  "description": "The Best WhatsApp Bot Created By Malvin King",
+  "description": "The Best WhatsApp Bot Created By MuDaSiR",
   "main": "index.js",
   "engines": {
     "node": "20.x",
